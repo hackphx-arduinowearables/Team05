@@ -1,3 +1,3 @@
 Team05
 ======
-edwin abbots flatlam vr head set using neo pixl
+edwin abbots flatland vr head set using neo pixel
