@@ -12,9 +12,27 @@ glue sticks
 pla 3d printer fillament
 sheet of printer paper 
 plastic white defusor *
+Prismatic defusor * 
 2mm eva foam (funky foam @ michals or hobby lobby) (http://shop.hobbylobby.com/products/9-x-12-black-sticky-back-eva-foam-sheet-2mm-323907/)
-60 led per meter neo pixel led strip (http://www.adafruit.com/products/1138) 
+15 units of 60 led per meter neo pixel led strip (http://www.adafruit.com/products/1138)
+* if avalable a desk top lcd monitor(broken) is a good cheap source (or just paper and 3d print in white led mount.stl) 
 
-* if avalable a desk top lcd monitor(broken) is a good cheap source  
+1/2" in heat srink @ 12"
+1/8" heat srink
+Hipatic feed back strip 7 units long (http://citizengadget.com/post/59494035738/led-light-strip-hacked-for-haptic-motors)
+
+2 small peizo buzzers (can be pulled off old mother boards) 
+6 momentatry push buttons 
+
+6 1k resistors 
+8 2k resistors
+
+1 3.7 v celphone li ion battery or usb power
+xadow main board 
+xadow pin break out or (arduino uno will also work inplace of xadow stuff)  
+
+.1" male headers
+
+ 
 
 build steps
